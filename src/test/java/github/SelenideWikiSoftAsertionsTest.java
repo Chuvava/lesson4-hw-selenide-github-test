@@ -1,7 +1,6 @@
 package github;
 
 import com.codeborne.selenide.Configuration;
-import com.codeborne.selenide.conditions.MatchAttributeWithValue;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
